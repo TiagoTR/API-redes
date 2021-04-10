@@ -1,5 +1,5 @@
 # API-redes
-Demonstração dos métodos do protocolo http, para fins acadêmicos 
+Demonstração dos métodos do protocolo http para fins acadêmicos 
 
 
 ## How to use?
